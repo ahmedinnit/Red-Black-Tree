@@ -1,2 +1,2 @@
 # Red-Black-Tree
-Red-Black-Tree Code in C++ without using Parent Node
+Red-Black-Tree Code in C++ without Parent Node
